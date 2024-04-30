@@ -4,4 +4,9 @@ export default function getResponseFromAPI() {
       resolve();
     },
   );
+<<<<<<< HEAD
   return myPromise;}
+=======
+  return myPromise;
+}
+>>>>>>> 245d659b634c8a36e7b7fc6b1434e754886e3425
